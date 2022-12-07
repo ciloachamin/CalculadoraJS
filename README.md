@@ -21,6 +21,6 @@ Para esta tarea debes hacer una calculadora con las siguientes operaciones:
 
 Bonus:
 - Bonus de diseños o páginas adicionales (Totalmente a tu creatividad)
-- Bonus de despliegue de la página 
+
 
 ***¡Vámonos hasta el espacio y más allá Explorers!***
